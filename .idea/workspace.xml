@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20b146ec-af5a-4fac-9158-6307af74aaf2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" executionDataType="PHAR" phpInterpreterId="bfa225f9-ad1d-4d79-9e7e-ca42188d7b51" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>C:\xampp\htdocs\composer.json</pharConfigPath>
+    <pharPath>C:\xampp\htdocs\composer.phar</pharPath>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 7.3.12">
+    <include_path>
+      <path value="$PROJECT_DIR$/../vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/../vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/../vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/../vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/../vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/../vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/../vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/../vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/../vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/../vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/../vendor/illuminate/console" />
+      <path value="$PROJECT_DIR$/../vendor/barryvdh/laravel-ide-helper" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/../vendor/barryvdh/reflection-docblock" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/../vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/../vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/../vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/../vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/../vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/../vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/../vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/../vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/../vendor/phpunit/dbunit" />
+      <path value="$PROJECT_DIR$/../vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/../vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/../vendor/fontawesome-free/css" />
+      <path value="$PROJECT_DIR$/../vendor/fontawesome-free/webfonts" />
+      <path value="$PROJECT_DIR$/../vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/../vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/../vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/../vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/../vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/../vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/../vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/../vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/../vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/../vendor/psr/log" />
+      <path value="$PROJECT_DIR$/../vendor/psr/container" />
+      <path value="$PROJECT_DIR$/../vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/../vendor/bootstrap/js" />
+      <path value="$PROJECT_DIR$/../vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/../vendor/composer" />
+      <path value="$PROJECT_DIR$/../vendor/rain/raintpl" />
+      <path value="$PROJECT_DIR$/../vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/../vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/../vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/../vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/../vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/../vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/../vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/../vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/../vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/../vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/../vendor/symfony/polyfill-mbstring" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Site PDV v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abapdv1" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../phpunit.phar" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.composer" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="settings.editor.splitter.proportion" value="0.21489726" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Alex Botelho\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20b146ec-af5a-4fac-9158-6307af74aaf2" name="Default" comment="" />
+      <created>1584046242017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584046242017</updated>
+      <workItem from="1584046243332" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
